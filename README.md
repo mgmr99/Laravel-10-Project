@@ -1,1 +1,1 @@
-#Laravel 10 project by Madhu Ghimire
+#Laravel 10 project by MadhuGhimire
